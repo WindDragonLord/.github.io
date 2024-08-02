@@ -3,6 +3,11 @@
     margin: auto;    
 }
 
+header {
+    background-color: black;
+    opacity: 0.8;
+}
+
 header h1 {
     color: white;
     position: relative;
