@@ -1,0 +1,12 @@
+*{
+    padding: auto;
+    margin: auto;    
+}
+
+header h1 {
+    color: white;
+    position: relative;
+    left: 20px;
+    top:0px;
+    line-height: 120px;
+}
